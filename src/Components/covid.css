@@ -1,0 +1,194 @@
+/*  Basic Styling but it will help you  */
+body{
+    background-color: rgb(34, 32, 32);
+}
+
+h1,h2{
+    text-align: center;
+}
+
+h1{
+    transition: 0s;
+    transform: scale(1.1);
+
+}
+
+
+
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-flow: wrap;
+    
+}
+
+
+.card1{
+     background-color:rgba(26, 82, 139, 0.527);
+     width: calc(76%/3);
+    margin: 2%;
+    padding: 2%;
+    text-align: center;
+    transition: 0.3s;
+
+}
+
+.card:hover{
+    transform:scale(1.1);
+} 
+
+.card__name{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card__name span {
+    font-size: 15px;
+}
+
+.card__total {
+    font-size: 200%;
+    font-weight: bold;
+
+}
+.card2{
+    background-color:rgba(27, 224, 43, 0.527);
+    width: calc(76%/3);
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+
+}
+
+.card:hover{
+   transform:scale(1.1);
+} 
+
+.card__name{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card__name span {
+   font-size: 15px;
+}
+
+.card__total {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+.card3{
+    background-color:rgba(204, 225, 17, 0.527);
+    width: calc(76%/3);
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+
+}
+
+.card:hover{
+   transform:scale(1.1);
+} 
+
+.card__name{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card__name span {
+   font-size: 15px;
+}
+
+.card__total {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+.card4{
+    background-color:rgba(224, 72, 8, 0.527);
+    width: calc(76%/3);
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+
+}
+
+.card:hover{
+   transform:scale(1.1);
+} 
+
+.card__name{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card__name span {
+   font-size: 15px;
+}
+
+.card__total {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+.card5{
+    background-color:rgba(26, 82, 139, 0.527);
+    width: calc(76%/3);
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+
+}
+
+.card:hover{
+   transform:scale(1.1);
+} 
+
+.card__name{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card__name span {
+   font-size: 15px;
+}
+
+.card__total {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+.card6{
+    background-color:rgba(138, 92, 6, 0.527);
+    width: calc(76%/3);
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+
+}
+
+.card:hover{
+   transform:scale(1.1);
+} 
+
+.card__name{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card__name span {
+   font-size: 15px;
+}
+
+.card__total {
+   font-size: 200%;
+   font-weight: bold;
+
+}
